@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "name": "asp.net",
   "private": true,
+  "author": "Khimin",
   "scripts": {
     "ng": "ng",
     "start": "echo hello && ng serve",

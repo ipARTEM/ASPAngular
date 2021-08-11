@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPAngular", "ASPAngular\ASPAngular.csproj", "{156E6E53-DC43-43ED-9C13-010C15098A3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPAngular", "ASPAngular\ASPAngular.csproj", "{156E6E53-DC43-43ED-9C13-010C15098A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPAngular02", "ASPAngular02\ASPAngular02.csproj", "{4F2B90E7-AC8B-47BD-9A0F-CF670C1B1CBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{156E6E53-DC43-43ED-9C13-010C15098A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{156E6E53-DC43-43ED-9C13-010C15098A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{156E6E53-DC43-43ED-9C13-010C15098A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2B90E7-AC8B-47BD-9A0F-CF670C1B1CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2B90E7-AC8B-47BD-9A0F-CF670C1B1CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2B90E7-AC8B-47BD-9A0F-CF670C1B1CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2B90E7-AC8B-47BD-9A0F-CF670C1B1CBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
